@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://pien.red/fu12](https://pien.red/fu12)
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **HTML**
 
 - 📫 How to reach me **malum4678@gmail.com**
 
