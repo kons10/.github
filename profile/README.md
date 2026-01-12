@@ -15,10 +15,6 @@
 
 - 🤝 I’m looking for help with [Run for Linux](https://github.com/Linux-jam/run-for-linux)
 
-- 👨‍💻 All of my projects are available at [https://kons10.github.io](https://kons10.github.io)
-
-- 📝 I regularly write articles on [https://pien.red/fu12](https://pien.red/fu12)
-
 - 💬 Ask me about **HTML**
 
 - 📫 How to reach me **malum4678@gmail.com**
