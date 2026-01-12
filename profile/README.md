@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kons_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kons_10" height="30" width="40" /></a>
-<a href="https://instagram.com/heroblineg_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heroblineg_1" height="30" width="40" /></a>
+<a href="https://x.com/i/user/1926459207613599745" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kons_10" height="30" width="40" /></a>
+<a href="https://instagram.com/k0ns10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heroblineg_1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/heroblineg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="heroblineg" height="30" width="40" /></a>
 </p>
 
