@@ -3,15 +3,15 @@
 ### 🚀 About Me
 - 💻 **Main PC**: Windows 11 | Ryzen 5 5600 | 32GB RAM | GeForce 750ti
 - 📱 **Mobile**: FCNT arrows U
-- 🎓 **School Env**: Celeron N4000 / 4GB RAM (Lightweight coding focus)
-- 🛠️ **OS**: Windows & UNIX-like environments
+- 🎓 **School Env**: unknown
+- 🛠️ **System**: Windows & Debian & Termux
 
 ---
 
 ### 🛠 Tech Stack
 | Category | Tools |
 | :--- | :--- |
-| **OS** | Windows 11, UNIX |
+| **OS** | Windows, Linux |
 | **Hardware** | AMD Ryzen, Intel Celeron |
 | **Daily Driver** | arrows U |
 
