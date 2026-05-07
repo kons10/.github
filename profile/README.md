@@ -1,26 +1,64 @@
-# 👋 Hi, I'm Kanon (@kons10)
+<div align="center">
+<img width="200" height="200" alt="8xw6Aixl_400x400" src="https://github.com/user-attachments/assets/71c55df3-afdc-4981-9720-5a0ea63f9b0f" />
 
-### 🚀 About Me
-- 💻 **Main PC**: Windows 11 | Ryzen 5 5600 | 32GB RAM | GeForce 750ti
-- 📱 **Mobile**: FCNT arrows U
-- 🎓 **School Env**: unknown
-- 🛠️ **System**: Windows & Debian & Termux
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,astro&perline=6" />
 
----
+**`Frontend Developer Student`** **`OSS Lover`** **`CJK Culture Enthusiast`**
 
-### 🛠 Tech Stack
-| Category | Tools |
-| :--- | :--- |
-| **OS** | Windows, Linux |
-| **Hardware** | AMD Ryzen, Intel Celeron |
-| **Daily Driver** | arrows U |
+### 👋 Hi, I'm Kanon (奏音 / Zòuyīn) No.40
+
+**Japanese trans girl** building beautiful, accessible web experiences and contributing to open source.
+
+- 🌏 **Languages**: 日本語 / English / 中文
+- 🏳️‍⚧️ MtF | 🌐 Open Source | 👾 Frontend | 🍜 Asian Food & Culture
+- Main: [@k0ns10](https://x.com/k0ns10) ・ Sub: [@k0nstoo](https://x.com/k0nstoo) ・ Alt: [@z0uy1n](https://x.com/z0uy1n)
 
 ---
 
-### 📫Quick overview
+### 🛠️ Technologies & Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kons10&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=ja&layout=compact" alt="kons10" /></p>
+**Currently Focusing On:**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kons10&show_icons=true&theme=dark" alt="kons10" /></p>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,astro,svelte,vue&perline=8" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kons10&theme=dark" alt="kons10" /></p>
+**Also Experienced With:**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,git,github,figma,vercel,cloudflare&perline=8" />
+
+**Learning / Interested In:**
+
+<img src="https://skillicons.dev/icons?i=prisma,supabase,postgres,threejs,framer,md,html,css&perline=8" />
+
+---
+
+### 📊 GitHub Stats
+
+![Kanon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🎵 Now Playing
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatone)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+---
+
+### 🌟 Favorite Things
+
+- **Food**: Ramen, dumplings, sushi, street food 🍜🥟
+- **Culture**: CJK internet culture, languages & design
+- **Vibe**: Cute & functional UIs, late-night coding, open source
+- **Community**: Trans creators & indie devs
+
+---
+
+### 📫 Connect With Me
+
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/k0ns10)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/YOUR_USERNAME)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/YOUR_ID)
+
+**"Building the web with love, curiosity, and a bit of chaos 💕"**
+
+</div>
