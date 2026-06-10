@@ -33,14 +33,14 @@
 
 ### 📊 GitHub Stats
 
-![Kanon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Kanon’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=kons10&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kons10&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🎵 Now Playing
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatone)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=314uu7okq4jjgrtnuwvftuhb6aae&cover_image=true&theme=novatone)](https://open.spotify.com/user/314uu7okq4jjgrtnuwvftuhb6aae)
 
 ---
 
