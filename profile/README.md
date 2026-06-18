@@ -27,7 +27,7 @@
 
 **Learning / Interested In:**
 
-<img src="https://skillicons.dev/icons?i=prisma,supabase,postgres,python,threejs,framer,md,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=prisma,supabase,postgres,python,threejs,md,html,css&perline=8" />
 
 ---
 
