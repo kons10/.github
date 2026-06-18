@@ -19,15 +19,15 @@
 
 **Currently Focusing On:**
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,astro,svelte,vue&perline=8" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,tailwind,astro,vue&perline=8" />
 
 **Also Experienced With:**
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,git,github,figma,vercel,cloudflare&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,git,github,figma,cloudflare&perline=8" />
 
 **Learning / Interested In:**
 
-<img src="https://skillicons.dev/icons?i=prisma,supabase,postgres,threejs,framer,md,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=prisma,supabase,postgres,python,threejs,framer,md,html,css&perline=8" />
 
 ---
 
