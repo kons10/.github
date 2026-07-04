@@ -40,8 +40,7 @@
 
 ### 🎵 Now Playing
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=314uu7okq4jjgrtnuwvftuhb6aae&cover_image=true&theme=novatone)](https://open.spotify.com/user/314uu7okq4jjgrtnuwvftuhb6aae)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=314uu7okq4jjgrtnuwvftuhb6aae)
 ---
 
 ### 🌟 Favorite Things
