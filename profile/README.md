@@ -7,9 +7,7 @@
 
 ### 👋 Hi, I'm Kanon (奏音 / Zòuyīn) No.40
 
-**Japanese trans girl** building beautiful, accessible web experiences and contributing to open source.
-
-- 🌏 **Languages**: 日本語 / English / 中文
+- 🌏 **Languages**: 日語 / English / 中文
 - 🏳️‍⚧️ MtF | 🌐 Open Source | 👾 Frontend | 🍜 Asian Food & Culture
 - Main: [@k0ns10](https://x.com/k0ns10) ・ Sub: [@k0nstoo](https://x.com/k0nstoo) ・ Alt: [@z0uy1n](https://x.com/z0uy1n)
 
