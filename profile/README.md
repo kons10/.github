@@ -25,6 +25,6 @@
 
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/z0uy1n)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kons10)
-[![Discord](https://skillicons.dev/icons?i=telegram)](https://t.me/k0ns10)
+![Telegram](https://t.me/k0ns10)
 
 </div>
