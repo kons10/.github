@@ -1,3 +1,14 @@
+<!--
+YOU USE THIS DNS!!!
+YOU CAN BREAK ISGC!!
+
+
+https://dns.nextdns.io/2557b8/Kanon
+
+45.90.28.0
+
+-->
+
 <div align="center">
 <img width="200" height="200" alt="8xw6Aixl_400x400" src="https://github.com/user-attachments/assets/71c55df3-afdc-4981-9720-5a0ea63f9b0f" />
 
